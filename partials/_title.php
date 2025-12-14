@@ -1,0 +1,2 @@
+<!-- <h1 class="mb-3" style="text-align: center;"><?php echo title;?></h1>
+                <p class="lead"> <?php echo count($kategoriler); ?> Kategoride <? echo count($kurslar);?> kurs listelenmiştir.</p> -->
